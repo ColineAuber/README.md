@@ -5,6 +5,8 @@ public class Main {
 	// merci beaucoup ;)
 	//c aussi l'anniv de jeannnnn! bon anniversaire à vous 2
 	// c'est moi mélanie même si c'est sur coline
+	// de rien hein?
+	// oups merci !!
 	public static void main(String[] args) {
 		TicketMachine machine = new TicketMachine(50);
 		System.out.println("L'utilisateur insère 60 centimes");
